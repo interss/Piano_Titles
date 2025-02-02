@@ -1,6 +1,6 @@
 # Description: This is bot automation script for piano tiles game.
 # Descrição: Este é um script de automação de bot para o jogo piano tiles.
-
+https://gameforge.com/en-US/littlegames/magic-piano-tiles/
 # Importing libraries
 # Importando bibliotecas
 import pyautogui
